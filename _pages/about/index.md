@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "About me"
-permalink: "/about/"
+permalink: "about/"
 ---
 
 Hi, I'm Uly. I'm from Brazil, but I'm currently living in Berlin, Germany. I started coding around 2004 when I was 14 years old. Initially, I used to build silly scripts to patch the uniforms of Pro Evolution Soccer's teams, a game that I used to love playing. Later on, I started to study programming in a technical course, and I got some exposure to ancient languages as basic, asp.net, and - not so ancient - PHP. At some point, I started to get money to code, building enterprise systems using enterprisish stacks.
