@@ -57,7 +57,7 @@ defaults:
 
 # Serving
 url: "https://ulymarins.github.io"
-baseurl: "https://ulymarins.github.io"
+baseurl: "/"
 
 # Includes
 include: ["_pages"]
