@@ -7,11 +7,8 @@ comments: false
 category: 
 - post
 tags:
-- thoughts
+- data privacy
 ---
-
-<iframe src="https://open.spotify.com/embed/playlist/43bRXBDc4rAOqwwapLMJrn" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
 I got tired of being assaulted by social media companies. Facebook, Twitter, and most of these companies don't really care about you or community development, it's all about selling ads and stealing your attention. It's time to take the control back.
 
 You can still reach me on [Linkedin](https://www.linkedin.com/in/ulymarins/) or send an email to ulysses@hey.com.
