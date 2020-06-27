@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ulymarins.github.io
+Token: b10c8f6021dcad75cfd84632d08e9e5cc420d4d5740b0fb395b04d53712bf707
