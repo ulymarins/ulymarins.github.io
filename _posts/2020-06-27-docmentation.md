@@ -9,7 +9,7 @@ category:
 tags:
 - data privacy
 ---
-I got tired of being assaulted by social media apps. Facebook, Twitter, Instragram and most of these companies don't really care about you or community development. It's all about selling ads and stealing your attention. It's time to take the control back.
+I got tired of being assaulted by social media apps. Facebook, Twitter, Instragram and most of these companies don't really care about you or community development. It's all about selling ads and stealing your attention. It's time to take back control.
 
 You can still reach me on [Linkedin](https://www.linkedin.com/in/ulymarins/) or send an email to ulysses@hey.com.
 
