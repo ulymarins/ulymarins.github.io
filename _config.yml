@@ -56,7 +56,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: "https://ulymarins.github.io"
+url: "https://ulymarins.me/"
 baseurl: "/"
 
 # Includes
