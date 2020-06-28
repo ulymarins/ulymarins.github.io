@@ -8,6 +8,6 @@ Hi, I'm Uly. I'm from Brazil, but I'm currently living in Berlin, Germany. I sta
 
 After a few years working for big tech companies, I decided to work with startups, which back in time seemed like something way cooler. Indeed, it was. I worked with amazing technologies in the last years, and on top of that, I started to learn how to build great engineering teams. Lately, most of my working time is used to empower teams and people, creating a psychologically safe workplace and a productive flow for engineers from different countries and cultures. It feels good to create an environment where people can be proud of their work while shipping impactful code and having fun. So yeah, that's what I usually do.
 
-Out of tech, I did a considerable number of random stuff in my life, as djing in parties, writing articles about music for a personal blog - sponsored by MTV, interviewing bands, playing American football, or going to some Buddhist retreats in the middle of nowhere.
+Out of tech, I did a considerable number of random stuff in my life, as DJing in parties, writing articles about music for a blog - sponsored by MTV, interviewing bands, playing American football, or going to some Buddhist retreats in the middle of nowhere.
 
 Intriguing mix, right? I can't explain.
