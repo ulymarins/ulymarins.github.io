@@ -31,3 +31,7 @@ After acknowledging this model, I started to use it as another tool to classify 
 
 In any case, it’s an efficient framework to add to your game, regardless of your goals.
 
+_________________
+
+
+Did you enjoy the reading? This content is shared via a newsletter, which you can subscribe [here](https://shaka.substack.com/) to receive new issues!
