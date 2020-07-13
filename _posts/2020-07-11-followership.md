@@ -17,7 +17,7 @@ A lot has been said about leadership and how to thrive as a leader, but there is
 
 Some days ago, while enjoying my morning-austrian-black-coffee and reading [97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should/dp/1492050903), by Camille Fournier, I was exposed to the term followership and got intrigued by it. The model cited in the diagram above was created by Ira Challef, one of the best minds on leadership. This gentleman is a known author and speaker that has some great ideas regarding followers, which I will present to you.
 
-Looking at the diagram, y means how much support an individual provides to her leader, while x represents how much the person challenges the ideas of her manager.
+Looking at the diagram, x means how much support an individual provides to her leader, while y represents how much the person challenges the ideas of her manager.
 
 ***Individualist*** (low support, high challenge): team members who usually have their principles and don’t care about the opinions of the leader or the rest of the team; they prefer to do as they want and are continually challenging ideas, for good and the bad.
 
