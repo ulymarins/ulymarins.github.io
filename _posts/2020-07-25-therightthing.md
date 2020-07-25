@@ -24,7 +24,12 @@ Another reply on the same thread:
 
 > Staff engineer: but no seriously, who asked you to do this, and what are we hoping to get out of it, and if we don't do it, do you think they'll just forget they asked?
 
-This triggered me since I could totally relate to this journey of becoming a more mature software engineer, and to some other thoughts I'm currently having, I'll explain to you. Some years ago, when I was working as a software engineer in a big tech company, and my leader left, I had the chance to learn more about technical leadership on the go. From one day to the other, I needed to set the technical direction for engineers of the team and contractors. I always had the option to not accept that challenge and go back to my individual contributor track, but something inside of me was telling me to jump in the soup and make the best out of that opportunity. It was a good idea.
+This triggered me since I could totally relate to this journey of becoming a more mature software engineer, and to some other thoughts I'm currently having, I'll explain to you. 
+
+![postits](https://raw.githubusercontent.com/ulymarins/ulymarins.github.io/master/static/daria-nepriakhina-zoCDWPuiRuA-unsplash.jpg)
+Credit: Unsplash
+
+Some years ago, when I was working as a software engineer in a big tech company, and my leader left, I had the chance to learn more about technical leadership on the go. From one day to the other, I needed to set the technical direction for engineers of the team and contractors. I always had the option to not accept that challenge and go back to my individual contributor track, but something inside of me was telling me to jump in the soup and make the best out of that opportunity. It was a good idea.
 
 One of my main motivations to keep growing and learning more about technical leadership and engineering management was doing precisely the opposite of some bad managers and leads I had in the past. I bought several books, courses, tried things in practice, and so on. I felt super comfortable leading teams, people were happy, productive, delivering features, and I had fruitful relationships with my direct reports. However, there was one thing I felt that was not still quite right. **I did not have the feeling we were investing our time building the most impactful thing we could**.
 
