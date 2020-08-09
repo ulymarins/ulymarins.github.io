@@ -34,7 +34,7 @@ He also suggests that most of the companies that succeed during this period are 
 
 When companies finally find a market fit, they need to tackle another challenge: to effectively grow and scale. Besides hiring lots more people, they need to build strategies and tactics good enough to replicate their earlier successes with new, adjacent products and services. Communication is a big challenge in this phase, too, since some symptoms start to appear. Product teams complaining about a lack of understanding of the big picture, people don't see how their work contributes to the broader goals, and in general, employees feel less empowered, departments have a hard time to communicate with each other, the infrastructure built for the product is not scalable enough, etc. Cagan writes:
 
-> “This stage is also though on leaders because the leadership style and mechanisms that worked while the company was a young startup often fail to scale. Leaders are forced to change their roles and, in many cases, their behaviors.”
+> “This stage is also tough on leaders because the leadership style and mechanisms that worked while the company was a young startup often fail to scale. Leaders are forced to change their roles and, in many cases, their behaviors.”
 
 However, the energy and motivation to overcome these challenges are powerful, since there is a possibility of having a significant and positive impact on the world if they do the right thing.
 
