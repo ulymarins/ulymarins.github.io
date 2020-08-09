@@ -20,7 +20,7 @@ Some months ago, I discovered this guy called Marty Cagan. If you are into produ
 
 My goal here is to summarize some of the things, from my point of view, so you can learn something too, without the overhead of reading hundreds of articles or reading his book *Inspired*, which I bought some weeks ago.
 
-The first thing I would like to bring, it's an update about an opinion I had in my last article, where I wrote that feedback look is the most important thing. In the technology world, we generally have three different stages of companies: startups, growth-stage, and enterprise companies. The feedback loop is definitely useful in all of them, but there are few other things we should consider
+The first thing I would like to bring, it's an update about an opinion I had in my last article, where I wrote that feedback loop is the most important thing. In the technology world, we generally have three different stages of companies: startups, growth-stage, and enterprise companies. The feedback loop is definitely useful in all of them, but there are few other things we should consider
 
 **Startup**
 
