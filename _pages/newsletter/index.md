@@ -4,24 +4,4 @@ title:  "Newsletter"
 permalink: "newsletter/"
 ---
 
-I have a newsletter which you can sign up below. All the content that I publish in the website go through this channel as well, so you won't miss anything.
-
-<div id="revue-embed">
-  <form action="https://www.getrevue.co/profile/feedbackloop/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
-  <div class="revue-form-group">
-    <label for="member_email">Email address</label>
-    <input class="revue-form-field" placeholder="Your email address..." type="email" name="member[email]" id="member_email">
-  </div>
-  <div class="revue-form-group">
-    <label for="member_first_name">First name <span class="optional">(Optional)</span></label>
-    <input class="revue-form-field" placeholder="First name... (Optional)" type="text" name="member[first_name]" id="member_first_name">
-  </div>
-  <div class="revue-form-group">
-    <label for="member_last_name">Last name <span class="optional">(Optional)</span></label>
-    <input class="revue-form-field" placeholder="Last name... (Optional)" type="text" name="member[last_name]" id="member_last_name">
-  </div>
-  <div class="revue-form-actions">
-    <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit">
-  </div>
-  </form>
-</div>
+I have a newsletter which you can sign up [here](https://www.getrevue.co/profile/feedbackloop).
