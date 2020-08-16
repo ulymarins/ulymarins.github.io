@@ -14,6 +14,10 @@ tags:
 
 Since I started to study leadership a few years ago, I could discover different practices and perspectives to deal with the daily challenges of managing people, products, and systems. Like any other skill, you analyze, discard what does not resonate with you, and keep what you think is useful. One thing I kept was the idea that you should not motivate people. You should understand them, their own motivations, and create a space where you can align company goals and people's intrinsic motivations. That's the sweet spot, employees feel great, and business goals can be achieved. I appreciate Daniel Pink's idea of motivation as a sum of autonomy, mastery, and purpose; I can say that's pretty much what I believed about this matter.
 
+![postits](https://github.com/ulymarins/ulymarins.github.io/blob/master/static/charles-deluvio-Lks7vei-eAg-unsplash.jpg?raw=true)
+
+Credit: Unsplash
+
 One of these days, I heard from a friend: "we manage others in the same way we like to be managed." There are nuances about this statement, but I got the idea, and I agree. The curious fact is: I was not aware that we can not use the same techniques with people who are not like you; maybe it does not work. Not all of your direct reports will act and function exactly like you, and it is so easy to fall into the trap to believe everybody, who is not like you, is not enough. That's when something clicked in my mind, and I could feel I understood the problem for good, on a deeper level. 
 
 That management style of not motivating people was a bias that made me treat everybody the same and, consequently, to appreciate more the job of the people who are similar to me and respond better to my leadership style. Understanding human beings and creating an excellent space for them are just a few parts of the challenge. Some professionals need direction and autonomy; others need psychological safety, a sense of belonging, or predictability. 
