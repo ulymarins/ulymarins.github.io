@@ -30,8 +30,3 @@ Looking at the diagram, x means how much support an individual provides to her l
 After acknowledging this model, I started to use it as another tool to classify myself and the people I work with to understand what needs to be developed. Should I challenge my manager a bit more? Should I be a bit more supportive inside of my team? The beauty of it is that there is no right or wrong type of followership, there is space for everybody, and people have different needs. I’m sure there are leaders out there who prefer a team full of *resources*, while others prefer the right mix of *partners* and *implementers*. The same with team members, not everybody wants to be a *partner*, or maybe you like to see yourself as an *individualist*?
 
 In any case, it’s a useful framework to add to your game.
-
-_________________
-
-
-Did you enjoy the reading? This content is shared via a newsletter, which you can subscribe [here](https://shaka.substack.com/) to receive new issues!

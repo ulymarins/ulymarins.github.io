@@ -53,13 +53,6 @@ There are some practices out there that can help you on this journey of finding 
 
 I'm just starting some serious study about product management. Let's see if I'll change my mind in a few weeks.
 
-_________________
-
-
-Did you enjoy the reading? This content is shared via a newsletter, which you can subscribe [here](https://shaka.substack.com/) to receive new issues.
-
-
-
 
 
 
