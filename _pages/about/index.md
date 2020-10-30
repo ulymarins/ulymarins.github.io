@@ -11,3 +11,5 @@ After a few years working for big tech companies, I decided to work with startup
 Out of tech, I did a considerable number of random stuff in my life, as DJing in parties, writing articles about music for a blog - sponsored by MTV, interviewing bands, playing American football, or going to some Buddhist retreats in the middle of nowhere.
 
 Intriguing mix, right? I can't explain.
+
+Ah, I also produce some [music](https://soundcloud.com/odysseus-musik) in my spare time. It can be a pleasant experience if you radically lower your expectations! :)
