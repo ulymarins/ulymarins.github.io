@@ -2,7 +2,7 @@
 layout: post
 date: 2020-08-08 12:36
 title: "Product and company stages"
-description: A bit more about my learnins on Product Management.
+description: A bit more about my learnings on Product Management.
 comments: false
 category: 
 - post
